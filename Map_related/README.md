@@ -2,7 +2,7 @@ https://stackoverflow.com/questions/1066589/iterate-through-a-hashmap
 
 https://stackoverflow.com/questions/12940663/does-adding-a-duplicate-value-to-a-hashset-hashmap-replace-the-previous-value
 
-#HashMap vs HashSet:
+****HashMap vs HashSet:
 
 The map holds unique keys. When you invoke put with a key that exists in the map, the object under that key is replaced with the new object. Hence the size 1.
 
