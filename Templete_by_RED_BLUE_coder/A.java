@@ -7,7 +7,7 @@
     import java.math.BigInteger;
      
      
-    public final class A
+    public final class Codeforce_1691_B
     {    
     	static PrintWriter out = new PrintWriter(System.out); 
     	static StringBuilder ans=new StringBuilder();
